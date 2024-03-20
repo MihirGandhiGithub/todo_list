@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:todo_list/store_varible.dart';
 
 class TodoList extends StatefulWidget {
   const TodoList({super.key});
